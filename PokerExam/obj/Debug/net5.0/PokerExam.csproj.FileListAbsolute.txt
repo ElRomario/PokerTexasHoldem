@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.exe
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.deps.json
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.runtimeconfig.json
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.dll
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\ref\PokerExam.dll
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\bin\Debug\net5.0\PokerExam.pdb
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.dll
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\ref\PokerExam.dll
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.pdb
+C:\Users\ElRomario\source\repos\PokerExam\PokerExam\obj\Debug\net5.0\PokerExam.genruntimeconfig.cache
